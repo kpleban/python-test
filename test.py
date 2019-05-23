@@ -1,3 +1,3 @@
 import sys
 
-print('some tekst')
+print('some teksy')

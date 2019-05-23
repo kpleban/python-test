@@ -1,2 +1,1 @@
-# python-test
-cos tam jeszcze
+cos tam jeszcze innego
