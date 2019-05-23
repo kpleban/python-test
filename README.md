@@ -1,2 +1,2 @@
-# python-test
-cos tam jeszcze
+# python-testowy
+cos tam jeszcze, nie nie
